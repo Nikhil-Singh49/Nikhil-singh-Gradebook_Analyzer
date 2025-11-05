@@ -1,5 +1,5 @@
 # gradebook.py
-# Name: [Vaibhav Gupta]
+# Name: [Nikhil singh]
 # Date: 05-Nov-2025
 # Title: Gradebook Analyzer
 
@@ -122,3 +122,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
