@@ -1,2 +1,3 @@
 # Nikhil-singh-Gradebook_Analyzer
 Python Assignment
+Gradebook Analyzer is a simple Python project that helps teachers or students record, analyze, and display class marks with ease. Users can enter student names and scores, and the program will calculate key statistics, assign grades according to set rules, and distinguish between passing and failing students. It features an easy-to-use menu system and presents all results in a clear, organized table for quick review and repeated use.<img width="1920" height="1080" alt="result" src="https://github.com/user-attachments/assets/a5f2c3df-d0d3-4b7e-bd19-2214b7ab8393" />
